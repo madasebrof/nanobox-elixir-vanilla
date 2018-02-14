@@ -1,0 +1,11 @@
+# App artifacts
+/_build
+/db
+/deps
+/*.ez
+
+# Ignore doc (type 'mix docs' to create!)
+/doc
+
+# Generated on crash by the VM
+erl_crash.dump
